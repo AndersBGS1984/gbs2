@@ -16,7 +16,7 @@
         <logo/>
         <menu/>
         <name>GBS2</name>
-        <package_json/>
+        <package_json display_value="x_431699_gbs2/x-431699-gbs-2/1.0.0/package.json" path="x_431699_gbs2/x-431699-gbs-2/1.0.0/package.json">x_431699_gbs2/x-431699-gbs-2/1.0.0/package.json</package_json>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
