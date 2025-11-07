@@ -2,7 +2,7 @@ import { BusinessRule } from '@servicenow/sdk/core'
 
 BusinessRule({
     $id: Now.ID['9d8333b9c34d7250c2a89702b40131fd'],
-    name: 'this is my first business rule2',
+    name: 'this is my first business rule',
     table: 'incident',
     when: 'before',
     action: ['update', 'insert'],
